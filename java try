@@ -1,0 +1,6 @@
+// Simple JavaScript code
+function greet(name) {
+  console.log(`Hello, ${name}! Welcome to the repository.`);
+}
+
+greet("User");
